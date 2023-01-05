@@ -8,9 +8,9 @@ Jeffery Atkins was responsible for consolidating the data and his work can be fo
         
 Three R programs were used for each of the 19 forests. 
 
-1) C_N.R was used to calculate the carbon and nitrogen levels of each soil series within the forest. Carbon and nitrogen levels
-    were reported by depth so each depth was added together to get a total sum for the soil series, the sum was then multiplied by
-     the area of the soil series within the experimental forest to give megagrams per hectare. 
+1) C_N.R was used to calculate the carbon and nitrogen levels of each soil series within the forest. C and N levels were reported in megagrams (Mg) per hectare (ha) by depth. C and N levels for each depth were added together to get a total Mg/ha sum for each soil series. The C and N sums were then multiplied by the area of the soil series in the experimental forest resulting in total C and N in megagrams. 
+
+                Mg/ha * ha = Mg
      
 2) CNgraph.R was used to plot the carbon and nitrogen levels by depth of the 4-6 main soil series within each forest.
 
