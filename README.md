@@ -11,7 +11,7 @@ Three R programs were used for each of the 19 forests.
     were reported by depth so each depth was added together to get a total sum for the soil series, the sum was then multiplied by
      the area of the soil series within the experimental forest to give megagrams per hectare. 
      
-2) C_N_graph.R was used to plot the carbon and nitrogen levels by depth of the 4-6 main soil series within each forest.
+2) CNgraph.R was used to plot the carbon and nitrogen levels by depth of the 4-6 main soil series within each forest.
 
 
 ![SanteeCNgraph](https://user-images.githubusercontent.com/61474761/210826636-d1335036-e70a-430c-bc49-a8e21393b870.jpeg)
