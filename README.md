@@ -1,8 +1,9 @@
 # USDA-Forest-Service-Experimental-Forests-Soils
-Through collaboration with the College of Charleston and the USDA Forest Service Southern Research Station 
-a soils technical report was created using graphs generated in R. Data was collected using SQL.
+Through collaboration with the College of Charleston and the USDA Forest Service Southern Research Station a soils technical report was created using SQL for data mining and graphs generated in R programming language. Shape files were provided by the Forest Service and fed into the Web Soil Survey Area of Interest (AOI) tool. This returned a shape file with SSURGO map unit symbols. SQL was used to return the map unit name associated with the map unit symbols, example file is "SQL for Santee taxon". 
 
-Data used for this project was consolidated by Jeffery Atkins and can be found here: 
+Jason Nemecek of the NRCS provided us with a SQL query that could be entered into the Soil Data Mart and extract data from the National Cooperative Soil Survey Lab (NCSS). This query was modified for our specific needs and is called "All_EF_pedon_SQLscript". 
+
+Jeffery Atkins was responsible for consolidating the data and his work can be found here:
         https://github.com/atkinsjeff/efr_soils_project
         
 Three R programs were used for each of the 19 forests. 
