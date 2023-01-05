@@ -1,6 +1,6 @@
 # USDA-Forest-Service-Experimental-Forests-Soils
 Through collaboration with the College of Charleston and the USDA Forest Service Southern Research Station 
-a soils technical report was created using graphs generated in R. 
+a soils technical report was created using graphs generated in R. Data was collected using SQL.
 
 Data used for this project was consolidated by Jeffery Atkins and can be found here: 
         https://github.com/atkinsjeff/efr_soils_project
