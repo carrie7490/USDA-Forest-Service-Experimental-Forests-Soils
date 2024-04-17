@@ -29,7 +29,7 @@ Three R programs were used for each of the 19 forests.
            b) 0 to 10 cm depth
            c) 10 to 20 cm depth
            d) 20 to 40 cm depth
-           e) 40 to 100 cm depth
+           e) 40 to 100 cm depth.
    The map containing all horizons (0 to 100 cm depth) was imported into GIS Pro to generate a carbon map.
    
    ![SEFcarbon](https://github.com/carrie7490/USDA-Forest-Service-Experimental-Forests-Soils/assets/61474761/90a683c5-e9d4-4fa2-a94d-31a10affda47)
