@@ -8,7 +8,7 @@ Jeffery Atkins was responsible for consolidating the data and his work can be fo
         
 Three R programs were used for each of the 19 forests. 
 
-1) C_N.R was used to calculate the carbon and nitrogen levels of each soil series within the forest. C and N levels were reported in megagrams (Mg) per hectare (ha) by depth. C and N levels for each depth were added together to get a total Mg/ha sum for each soil series. The C and N sums were then multiplied by the area of the soil series in the experimental forest resulting in total C and N in megagrams. 
+1) C_N.R was used to calculate the carbon and nitrogen levels of each soil series within the forest. C and N levels were reported in megagrams (Mg) per hectare (ha) by depth. C and N levels for each depth were added together to get a total Mg/ha sum for each soil series. The C and N sums were then multiplied by the area of the soil series in the experimental forest resulting in total C and N in megagrams within each soil in the forest. 
 
                 Mg/ha * ha = Mg
      
@@ -22,3 +22,8 @@ Three R programs were used for each of the 19 forests.
 
 
 ![SanteeAWC](https://user-images.githubusercontent.com/61474761/210826860-39693c62-5a2c-462b-8993-0bf3964e644d.jpeg)
+
+4) Python was used to generate a shapefile containing mined data for each forest; this file was imported into GIS Pro to generate a map of carbon levels within the forest.
+   ![SEFcarbon](https://github.com/carrie7490/USDA-Forest-Service-Experimental-Forests-Soils/assets/61474761/90a683c5-e9d4-4fa2-a94d-31a10affda47)
+
+   
