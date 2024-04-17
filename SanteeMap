@@ -1,0 +1,84 @@
+import psycopg2
+import requests
+from shapely.geometry import Point, Polygon, MultiPolygon, mapping
+import datetime
+import geopandas as gpd
+import pandas as pd
+import numpy as np
+from sqlalchemy import create_engine
+%matplotlib inline
+
+santee=gpd.read_file(r"C:\Users\SanteeMap.shp",
+                     sep=',\s+', skipinitialspace=True)
+                    
+                     
+data=gpd.read_file(r"C:\Users\ChemProp.csv",                  
+                     sep=',\s+', skipinitialspace=True                
+                    )
+
+santee.drop_duplicates()
+data.drop_duplicates()
+data=data.drop({'c_Mg_ha.x'}, axis=1)
+data=data.drop({'c_Mg_ha.y'}, axis=1)
+data=data.drop({'ph.cacl'}, axis=1)
+data=data.drop({'ph.h2o'}, axis=1)
+
+
+santee['soil_name']=santee['SSeries'].str.lower()
+santee.soil_name = santee.soil_name.astype('string')
+data.soil_name = data.soil_name.astype('string')
+data = data.astype({'Carbon':'float64', 'pH':'float64', 'ca_Mg_horizon':'float64', 'k_Mg_horizon':'float64',
+                   'mg_Mg_horizon':'float64', 'p_Mg_horizon':'float64', 'n_Mg_ha':'float64', 'base_sat':'float64',
+                   'bulk_density':'float64', 'bulk_density_sd':'float64', 'silt':'float64', 'clay':'float64', 
+                   'frag':'float64', 'sand':'float64'})
+
+#generate layer for horizons 0cm to 10cm
+data_0_10=pd.DataFrame(data.loc[((data['horizon'] =='0_10'))])
+geoSantee_0_10=santee.merge(data_0_10, on = 'soil_name')
+geoSantee_0_10=geoSantee_0_10.drop({'geometry_y'}, axis=1)
+geoSantee_0_10=gpd.GeoDataFrame(geoSantee_0_10, geometry='geometry_x')
+geoSantee_0_10=geoSantee_0_10.rename_geometry('geometry')
+geoSantee_0_10.drop_duplicates()
+
+#generate layer for horizons 10cm to 20cm
+data_10_20=pd.DataFrame(data.loc[((data['horizon'] =='10_20'))])
+geoSantee_10_20=santee.merge(data_10_20, on = 'soil_name')
+geoSantee_10_20=geoSantee_10_20.drop({'geometry_y'}, axis=1)
+geoSantee_10_20=gpd.GeoDataFrame(geoSantee_10_20, geometry='geometry_x')
+geoSantee_10_20=geoSantee_10_20.rename_geometry('geometry')
+geoSantee_10_20.drop_duplicates()
+
+#generate layer for horizons 20cm to 40cm
+data_20_40=pd.DataFrame(data.loc[((data['horizon'] =='20_40'))])
+geoSantee_20_40=santee.merge(data_20_40, on = 'soil_name')
+geoSantee_20_40=geoSantee_20_40.drop({'geometry_y'}, axis=1)
+geoSantee_20_40=gpd.GeoDataFrame(geoSantee_20_40, geometry='geometry_x')
+geoSantee_20_40=geoSantee_20_40.rename_geometry('geometry')
+geoSantee_20_40.drop_duplicates()
+
+#generate layer for horizons 40cm to 100cm
+data_40_100=pd.DataFrame(data.loc[((data['horizon'] =='40_100'))])
+geoSantee_40_100=santee.merge(data_40_100, on = 'soil_name')
+geoSantee_40_100=geoSantee_40_100.drop({'geometry_y'}, axis=1)
+geoSantee_40_100=gpd.GeoDataFrame(geoSantee_40_100, geometry='geometry_x')
+geoSantee_40_100=geoSantee_40_100.rename_geometry('geometry')
+geoSantee_40_100.drop_duplicates()
+
+geoSantee_0_10.to_file("C:\\Users\\geoSantee_0_10.shp")
+geoSantee_10_20.to_file("C:\\Users\\geoSantee_10_20.shp")
+geoSantee_20_40.to_file("C:\\Users\\geoSantee_20_40.shp")
+geoSantee_40_100.to_file("C:\\Users\\geoSantee_40_100.shp")
+
+geoSantee_0_10['horizon']='0_10'
+geoSantee_10_20['horizon']='10_20'
+geoSantee_20_40['horizon']='20_40'
+geoSantee_40_100['horizon']='40_100'
+
+santeeChem_0 = [geoSantee_0_10, geoSantee_10_20, geoSantee_20_40, geoSantee_40_100]
+geoSanteeChem = pd.concat(santeeChem_0)
+geoSanteeChem=geoSanteeChem.drop({'SSeries'}, axis=1)
+
+
+geoSanteeChem.to_file("C:\\Users\\geoSanteeChem.shp")
+
+geoSanteeChem.head()
