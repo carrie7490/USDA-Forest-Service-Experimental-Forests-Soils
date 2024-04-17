@@ -23,7 +23,7 @@ Three R programs were used for each of the 19 forests.
 
 ![SanteeAWC](https://user-images.githubusercontent.com/61474761/210826860-39693c62-5a2c-462b-8993-0bf3964e644d.jpeg)
 
-4) Python was used to generate a shapefile containing mined soil physical and chemical properties for each forest.
+4) SanteeMap uses Python to generate a shapefile containing mined soil physical and chemical properties for each forest.
         Five maps were created for future mapping of underground carbon levels:
            a) 0 to 100 cm depth
            b) 0 to 10 cm depth
