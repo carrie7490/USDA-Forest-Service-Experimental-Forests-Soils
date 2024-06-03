@@ -1,0 +1,329 @@
+,forest,geoProv,geoDesc,order_r,soil_name,muSymb_x,Area,C_sum,N_sum,C_Mg
+227,OEF,piedmont,"coastal plains, flats",spodosols,sapelo,47,50.38,893.25,37.01,45002.08
+267,SEF,coastal plain,"coastal plains, flats",ultisols,rains,Ra,5.07,402.77,39.19,2042.03
+219,OEF,piedmont,"coastal plains, flats",ultisols,pelham,37,214.33,873.73,45.28,187265.88
+198,HaEF,coastal plain,"coastal plains, flats",histols,ponzer,Ps,334.32,14074.87,425.88,4705510.8
+270,SEF,coastal plain,"coastal plains, uplands",ultisols,caroline,CoB,14,0,0,0
+141,EEF,coastal plain,"coastal plains, uplands",ultisols,escambia,Es,5.76,178.8,6.37,1029.9
+167,EEF,coastal plain,"coastal plains, uplands",ultisols,flomaton,Fl,9.15,0,0,0
+125,ChEF,coastal plain,"coastal plains, uplands",entisols,foxworth,31,63.14,225.08,10.77,14211.54
+119,ChEF,coastal plain,"coastal plains, uplands",ultisols,fuquay,32,3.32,111.96,12.72,371.72
+154,EEF,coastal plain,"coastal plains, uplands",ultisols,fuquay,14,0.74,55.98,6.36,41.43
+126,ChEF,coastal plain,"coastal plains, uplands",entisols,lakeland,36,38.46,444.49,56.96,17095.13
+127,ChEF,coastal plain,"coastal plains, uplands",ultisols,lakeland,66,3.63,444.49,56.96,1613.5
+128,ChEF,coastal plain,"coastal plains, uplands",entisols,lakeland,36,38.46,444.49,56.96,17095.13
+129,ChEF,coastal plain,"coastal plains, uplands",ultisols,lakeland,66,3.63,444.49,56.96,1613.5
+122,ChEF,coastal plain,"coastal plains, uplands",ultisols,leefield,39,0.61,116.18,3.35,70.87
+316,TEF,coastal plain,"coastal plains, uplands",alfisols,lexington,3,41.34,37.98,11.89,1569.95
+327,TEF,coastal plain,"coastal plains, uplands",alfisols,maben,50,0.04,0,0,0
+230,PEF,coastal plain,"coastal plains, uplands",ultisols,malbis,MaC,559.03,268.23,20.48,149949.27
+165,EEF,coastal plain,"coastal plains, uplands",ultisols,orangeburg,Or,40.41,127.15,9.04,5138.12
+166,EEF,coastal plain,"coastal plains, uplands",ultisols,poarch,Po,2.66,60.48,3.25,160.87
+203,HaEF,coastal plain,"coastal plains, uplands",ultisols,poarch,Po,454.35,1088.6,58.52,494604.69
+134,EEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Ru,5.09,43.54,3.91,221.6
+186,HaEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Ru,424.06,391.83,35.21,166159.94
+231,PEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Rs,2.16,217.68,19.56,470.2
+232,PEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Rs,438.6,217.68,19.56,95476.2
+157,EEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Ru,5.09,43.54,3.91,221.6
+201,HaEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Ru,424.06,391.83,35.21,166159.94
+244,PEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Rs,2.16,217.68,19.56,470.2
+245,PEF,coastal plain,"coastal plains, uplands",ultisols,ruston,Rs,438.6,217.68,19.56,95476.2
+280,SFAEF,coastal plain,"coastal plains, uplands",inceptisols,sacul,56,91.51,167.04,13.21,15285.81
+194,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,Sf,106.03,2203.46,124.61,233633.28
+195,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,ShC,126.32,2203.46,124.61,278341.56
+196,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,SnB,1.45,2203.46,124.61,3195.02
+197,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,SnB,56,2203.46,124.61,123393.98
+204,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,Sf,106.03,2203.46,124.61,233633.28
+205,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,ShC,126.32,2203.46,124.61,278341.56
+206,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,SnB,1.45,2203.46,124.61,3195.02
+207,HaEF,coastal plain,"coastal plains, uplands",ultisols,saucier,SnB,56,2203.46,124.61,123393.98
+133,EEF,coastal plain,"coastal plains, uplands",ultisols,sunsweet,Su,14.46,0,0,0
+192,HaEF,coastal plain,"coastal plains, uplands",ultisols,wadley,EtB,42.98,1359.76,168.21,58442.32
+193,HaEF,coastal plain,"coastal plains, uplands",ultisols,wadley,EuE,70.32,1359.76,168.21,95618.06
+150,EEF,coastal plain,"coastal plains, uplands",ultisols,wagram,Wa,100.17,140.92,8.7,14116.04
+160,EEF,coastal plain,drainageways,ultisols,dothan,Dt,43.52,165.74,25.12,7212.85
+202,HaEF,coastal plain,drainageways,ultisols,atmore,At,4.23,0,0,0
+242,PEF,coastal plain,drainageways,ultisols,betis,Eu,26.18,70.21,8.28,1838.1
+42,BVEF,blue ridge,drainageways,ultisols,saunook,Sb,72.2,991.87,88.09,71613.33
+91,CHL,blue ridge,drainageways,ultisols,saunook,Sb,53.67,495.94,44.04,26616.95
+43,BVEF,blue ridge,drainageways,ultisols,saunook,Sb,72.2,991.87,88.09,71613.33
+92,CHL,blue ridge,drainageways,ultisols,saunook,Sb,53.67,495.94,44.04,26616.95
+6,BCEF,blue ridge,drainageways,ultisols,tate,Ta,235.04,581.22,178.27,136609.26
+16,BCEF,blue ridge,drainageways,ultisols,tate,Ta,235.04,581.22,178.27,136609.26
+19,BCEF,blue ridge,drainageways,ultisols,trimont,TtE,0.25,142.83,12.09,35.71
+93,CHL,blue ridge,drainageways,ultisols,trimont,Tr,47.78,142.83,12.09,6824.58
+22,BCEF,blue ridge,drainageways,ultisols,trimont,TtE,0.25,142.83,12.09,35.71
+96,CHL,blue ridge,drainageways,ultisols,trimont,Tr,47.78,142.83,12.09,6824.58
+89,CHL,blue ridge,drainageways,ultisols,tuckasegee,TwC,9.11,495.35,35.79,4512.62
+90,CHL,blue ridge,drainageways,ultisols,tuckasegee,TwC,9.11,495.35,35.79,4512.62
+28,BCEF,blue ridge,drainageways,inceptisols,tusquitee,To,334.13,1377.18,177.29,460156.73
+52,BVEF,blue ridge,drainageways,inceptisols,tusquitee,TVF,0.27,393.48,50.65,106.24
+12,BCEF,blue ridge,drainageways,ultisols,whiteside,Wt,13.01,139.47,12.44,1814.53
+115,ChEF,coastal plain,drainageways,ultisols,alapaha,70,12.06,0,0,0
+41,BVEF,blue ridge,drainageways,inceptisols,cullasaja,Cu,81.3,464.79,37.68,37787.19
+88,CHL,blue ridge,drainageways,inceptisols,cullasaja,Cu,361.37,232.39,18.84,83980.05
+18,BCEF,blue ridge,drainageways,ultisols,dillard,DrB,2.03,0,0,0
+82,CEF,coastal plain,drainageways,ultisols,catula,Cd,7.84,0,0,0
+83,CEF,coastal plain,drainageways,ultisols,catula,Cd,131.34,0,0,0
+218,OEF,piedmont,flatwoods,spodosols,boulogne,11,42.42,516.89,0,21926.5
+124,ChEF,coastal plain,flatwoods,spodosols,hurricane,35,75.3,397.42,34.31,29925.65
+234,PEF,coastal plain,flatwoods,alfisols,caddo,Ca,2.15,96.29,7.39,207.01
+235,PEF,coastal plain,flatwoods,alfisols,caddo,Ca,206.36,96.29,7.39,19869.55
+107,ChEF,coastal plain,flatwoods,histosols,dorovan,20,1.88,8251.54,0,15512.9
+108,ChEF,coastal plain,flatwoods,histosols,dorovan,20,3.34,4125.77,0,13780.08
+221,OEF,piedmont,flatwoods,spodosols,kingsferry,26,41.92,667.51,0,27982.08
+269,SEF,coastal plain,flatwoods,spodosols,leon,Lo,0.68,147.94,9.86,100.6
+223,OEF,piedmont,flatwoods,spodosols,leon,23,134.85,2663,177.53,359106.11
+224,OEF,piedmont,flatwoods,spodosols,leon,24,29.37,2663,177.53,78212.43
+265,SEF,coastal plain,flatwoods,spodosols,leon,Lo,0.68,147.94,9.86,100.6
+214,OEF,piedmont,flatwoods,spodosols,leon,23,134.85,2663,177.53,359106.11
+215,OEF,piedmont,flatwoods,spodosols,leon,24,29.37,2663,177.53,78212.43
+264,SEF,coastal plain,flatwoods,spodosols,leon,Lo,0.68,147.94,9.86,100.6
+212,OEF,piedmont,flatwoods,spodosols,leon,23,134.85,2663,177.53,359106.11
+213,OEF,piedmont,flatwoods,spodosols,leon,24,29.37,2663,177.53,78212.43
+228,OEF,piedmont,flatwoods,ultisols,olustee,33,32.23,542.35,0,17479.94
+253,SEF,coastal plain,flatwoods,ultisols,pantego,Pe,4.04,1875.27,0,7576.1
+211,OEF,piedmont,flatwoods,ultisols,pantego,36,273.17,7501.09,0,2049072.53
+268,SEF,coastal plain,flatwoods,ultisols,pantego,Pe,4.04,1875.27,0,7576.1
+217,OEF,piedmont,flatwoods,ultisols,pantego,36,273.17,7501.09,0,2049072.53
+111,ChEF,coastal plain,flatwoods,ulstisols,plummer,51,6.17,245.87,0,1517.01
+112,ChEF,coastal plain,flatwoods,ultisols,plummer,51,6.17,245.87,0,1517.01
+137,EEF,coastal plain,flatwoods,ultisols,plummer,Pl,6.05,81.96,0,495.84
+113,ChEF,coastal plain,flatwoods,ulstisols,plummer,51,6.17,245.87,0,1517.01
+114,ChEF,coastal plain,flatwoods,ultisols,plummer,51,6.17,245.87,0,1517.01
+140,EEF,coastal plain,flatwoods,ultisols,plummer,Pl,6.05,81.96,0,495.84
+116,ChEF,coastal plain,flatwoods,spodosols,pottsburg,55,79.05,498.42,0,39400.14
+220,OEF,piedmont,flatwoods,spodosols,pottsburg,42,26.89,199.37,0,5361.01
+222,OEF,piedmont,flood plains,spodosols,mascotte,29,277.41,1958.77,0,543383.05
+131,DEF,coastal plain,flood plains,entisols,dowling,Da,208.9,0,0,0
+278,SFAEF,coastal plain,flood plains,entisols,angelina,5,64.16,0,68.82,0
+319,TEF,coastal plain,flood plains,entisols,arkabutla,18,234.71,0,0,0
+321,TEF,coastal plain,flood plains,entisols,arkabutla,18,234.71,0,0,0
+294,SSEF,piedmont,flood plains,inceptisols,ashlar,AP,33.46,198.38,11.23,6637.76
+138,EEF,coastal plain,flood plains,entisols,bibb,3,1.43,0,90.79,0
+139,EEF,coastal plain,flood plains,entisols,bibb,Bh,167.36,0,90.79,0
+135,EEF,coastal plain,flood plains,entisols,bibb,3,1.43,0,90.79,0
+136,EEF,coastal plain,flood plains,entisols,bibb,Bh,167.36,0,90.79,0
+81,CEF,coastal plain,flood plains,entisols,buncombe,Bu,11.2,0,0,0
+184,HEF,piedmont,flood plains,entisols,buncombe,Bfs,1.55,0,0,0
+233,PEF,coastal plain,flood plains,ultisols,cahaba,ChB,0.75,30.92,14.75,23.19
+56,CEF,coastal plain,flood plains,entisols,cartecay,Ca,158.19,0,0,0
+287,SSEF,piedmont,flood plains,entisols,cartecay,Ca,89.25,0,0,0
+55,CEF,coastal plain,flood plains,entisols,cartecay,Ca,158.19,0,0,0
+286,SSEF,piedmont,flood plains,entisols,cartecay,Ca,89.25,0,0,0
+317,TEF,coastal plain,flood plains,inceptisols,chenneby,10,1.25,0,0,0
+171,HEF,piedmont,flood plains,inceptisols,chewacla,Cst,10.15,0,34.9,0
+291,SSEF,piedmont,flood plains,entisols,chewacla,COA,150.49,0,523.54,0
+292,SSEF,piedmont,flood plains,inceptisols,chewacla,Ch,44.99,0,523.54,0
+185,HEF,piedmont,flood plains,inceptisols,chewacla,Cst,10.15,0,34.9,0
+312,SSEF,piedmont,flood plains,entisols,chewacla,COA,150.49,0,523.54,0
+313,SSEF,piedmont,flood plains,inceptisols,chewacla,Ch,44.99,0,523.54,0
+170,HEF,piedmont,flood plains,inceptisols,chewacla,Cst,10.15,0,34.9,0
+289,SSEF,piedmont,flood plains,entisols,chewacla,COA,150.49,0,523.54,0
+290,SSEF,piedmont,flood plains,inceptisols,chewacla,Ch,44.99,0,523.54,0
+169,HEF,piedmont,flood plains,entisols,congaree,Cot,132,318.11,0,41990.02
+236,PEF,coastal plain,flood plains,inceptisols,guyton,Gy,6.26,264.84,44.21,1657.89
+237,PEF,coastal plain,flood plains,inceptisols,guyton,Gy,31.92,264.84,44.21,8453.64
+9,BCEF,blue ridge,flood plains,inceptisols,iotla,IoA,17.49,0,0,0
+277,SFAEF,coastal plain,flood plains,inceptisols,iulus,27,59.62,0,0,0
+279,SFAEF,coastal plain,flood plains,inceptisols,mantachie,37,524.91,608.78,92.99,319556.39
+260,SEF,coastal plain,flood plains,alfisols,meggett,Mg,949.66,6421.96,1077.63,6098674.72
+7,BCEF,blue ridge,flood plains,inceptisols,nikwasi,NkA,2.24,849.12,36.23,1902.04
+320,TEF,coastal plain,flood plains,entisols,ochlockonee,40,3.4,0,0,0
+117,ChEF,coastal plain,flood plains,entisols,pamlico,64,5.36,9277.54,1077.34,49727.62
+118,ChEF,coastal plain,flood plains,entisols,pamlico,64,41.43,9277.54,1077.34,384368.5
+225,OEF,piedmont,flood plains,histols,pamlico,40,2.22,2650.73,307.81,5884.61
+109,ChEF,coastal plain,flood plains,entisols,pamlico,64,5.36,9277.54,1077.34,49727.62
+110,ChEF,coastal plain,flood plains,entisols,pamlico,64,41.43,9277.54,1077.34,384368.5
+216,OEF,piedmont,flood plains,histols,pamlico,40,2.22,2650.73,307.81,5884.61
+13,BCEF,blue ridge,flood plains,inceptisols,reddies,RdA,25.32,769.4,34.52,19481.31
+38,BVEF,blue ridge,flood plains,inceptisols,reddies,ReA,6.31,1025.87,46.02,6473.25
+85,CHL,blue ridge,flood plains,inceptisols,reddies,ReA,8.92,769.4,34.52,6863.08
+8,BCEF,blue ridge,flood plains,inceptisols,reddies,RdA,25.32,769.4,34.52,19481.31
+37,BVEF,blue ridge,flood plains,inceptisols,reddies,ReA,6.31,1025.87,46.02,6473.25
+84,CHL,blue ridge,flood plains,inceptisols,reddies,ReA,8.92,769.4,34.52,6863.08
+238,PEF,coastal plain,flood plains,alfisols,rexor,Re,29.02,300.82,0,8729.67
+35,BCEF,blue ridge,flood plains,inceptisols,rosman,RsA,1.12,280.68,28.19,314.37
+130,DEF,coastal plain,flood plains,vertisols,sharkey,Sa,859.6,11812.63,1864.18,10154139.43
+322,TEF,coastal plain,flood plains,alfisols,tippah,5C,10.2,64.18,4.75,654.6
+288,SSEF,piedmont,flood plains,entisols,toccoa,To,14.66,0,19.09,0
+54,CEF,coastal plain,flood plains,inceptisols,wehadkee,Wc,328.88,0,401.05,0
+168,HEF,piedmont,flood plains,inceptisols,wehadkee,Whs,5.88,0,120.31,0
+285,SSEF,piedmont,flood plains,inceptisols,wehadkee,WeA,17.64,0,401.05,0
+57,CEF,coastal plain,flood plains,inceptisols,wehadkee,Wc,328.88,0,200.52,0
+172,HEF,piedmont,flood plains,inceptisols,wehadkee,Whs,5.88,0,60.16,0
+293,SSEF,piedmont,flood plains,inceptisols,wehadkee,WeA,17.64,0,200.52,0
+314,SSEF,piedmont,flood plains,ultisols,wickham,Wk,71.72,676.01,63.01,48483.41
+10,BCEF,blue ridge,flood plains,inceptisols,french,Fr,1.64,0,0,0
+11,BCEF,blue ridge,flood plains,inceptisols,french,Fr,19.2,0,0,0
+36,BVEF,blue ridge,flood plains,inceptisols,toxaway,ToA,1.94,0,54.32,0
+17,BCEF,blue ridge,flood plains,alfisols,hemphill,HpA,1.07,572.94,39.93,613.04
+62,CEF,coastal plain,interfluves,ultisols,appling,Ap,70.83,162.41,18.35,11503.24
+303,SSEF,piedmont,interfluves,ultisols,cataula,Cc,78.82,0,59.93,0
+311,SSEF,piedmont,interfluves,ultisols,cataula,Cc,78.82,0,29.97,0
+60,CEF,coastal plain,interfluves,alfisols,enon,En,1090.95,497.4,49.27,542638.26
+63,CEF,coastal plain,interfluves,ultisols,hiwassee,HwC2,21.67,388.49,56.06,8418.61
+64,CEF,coastal plain,interfluves,ultisols,hiwassee,HwC2,79.66,388.49,56.06,30947.25
+61,CEF,coastal plain,interfluves,alfisols,mecklenburg,MkC,16.23,226,29.31,3668
+161,EEF,coastal plain,knolls,ultisols,esto,Et,18.79,390.51,0,7337.7
+162,EEF,coastal plain,knolls,ultisols,esto,Ew,60.2,390.51,0,23508.74
+142,EEF,coastal plain,knolls,ultisols,esto,Et,18.79,390.51,0,7337.7
+143,EEF,coastal plain,knolls,ultisols,esto,Ew,60.2,390.51,0,23508.74
+155,EEF,coastal plain,knolls,ultisols,esto,Et,18.79,390.51,0,7337.7
+156,EEF,coastal plain,knolls,ultisols,esto,Ew,60.2,390.51,0,23508.74
+120,ChEF,coastal plain,marine terraces,ultisols,albany,2,5.69,240.99,10.41,1371.24
+226,OEF,piedmont,marine terraces,ultisols,albany,54,1.45,60.25,2.6,87.36
+123,ChEF,coastal plain,marine terraces,ultisols,albany,2,5.69,240.99,10.41,1371.24
+229,OEF,piedmont,marine terraces,ultisols,albany,54,1.45,60.25,2.6,87.36
+191,HaEF,coastal plain,marine terraces,ultisols,mclaurin,Ml,257.55,602.26,33,155112.06
+187,HaEF,coastal plain,marine terraces,ultisols,saucier,Sf,106.03,2203.46,124.61,233633.28
+188,HaEF,coastal plain,marine terraces,ultisols,saucier,ShC,126.32,2203.46,124.61,278341.56
+189,HaEF,coastal plain,marine terraces,ultisols,saucier,SnB,1.45,2203.46,124.61,3195.02
+190,HaEF,coastal plain,marine terraces,ultisols,saucier,SnB,56,2203.46,124.61,123393.98
+276,SFAEF,coastal plain,marine terraces,alfisols,bernaldo,10,155.89,0,20.81,0
+273,SFAEF,coastal plain,marine terraces,alfisols,attoyac,7,5.65,48.38,4.18,273.34
+209,HaEF,coastal plain,marine terraces,ultisols,smithton,St,60.31,0,0,0
+261,SEF,coastal plain,marine terraces,ultisols,bonneau,BoA,42.46,254.87,32.91,10821.58
+250,PEF,coastal plain,marine terraces,alfisols,acadia,Ac,33.03,112.82,9.11,3726.52
+254,SEF,coastal plain,marine terraces,ultisols,bayboro,Ba,2.71,683.28,0,1851.69
+144,EEF,coastal plain,marine terraces,ultisols,benndale,Be,88.38,223.75,0,19775.25
+145,EEF,coastal plain,marine terraces,ultisols,benndale,Bg,90.49,223.75,0,20247.37
+147,EEF,coastal plain,marine terraces,ultisols,benndale,Be,88.38,223.75,0,19775.25
+148,EEF,coastal plain,marine terraces,ultisols,benndale,Bg,90.49,223.75,0,20247.37
+252,SEF,coastal plain,marine terraces,ultisols,bethera,Be,146.37,1176.87,340.96,172258.28
+281,SFAEF,coastal plain,marine terraces,alfisols,bienville,12,1.51,0,0,0
+282,SFAEF,coastal plain,marine terraces,alfisols,bienville,12,12.47,0,0,0
+121,ChEF,coastal plain,marine terraces,ultisols,blanton,7,30.56,312.13,21.38,9538.59
+106,ChEF,coastal plain,marine terraces,histols,dorovan,20,3.34,4125.77,0,13780.08
+251,PEF,coastal plain,marine terraces,alfisols,glenmora,GoB,5.47,60.43,5.39,330.56
+258,SEF,coastal plain,marine terraces,ultisols,goldsboro,GoA,115.66,1338.88,126.84,154854.3
+246,PEF,coastal plain,marine terraces,alfisols,gore,Gr,4.68,0,0,0
+247,PEF,coastal plain,marine terraces,alfisols,gore,Gr,176.68,0,0,0
+149,EEF,coastal plain,marine terraces,ultisols,greenville,Gv,3.15,57.22,4.77,180.26
+266,SEF,coastal plain,marine terraces,ultisols,lynchburg,Ly,5.01,225.88,0,1131.66
+263,SEF,coastal plain,marine terraces,ultisols,ocilla,Oc,2,47.65,1.72,95.29
+255,SEF,coastal plain,marine terraces,ultisols,wahee,Wa,621.69,0,299.98,0
+315,SSEF,piedmont,marine terraces,ultisols,wickham,Wk,71.72,676.01,63.01,48483.41
+271,SFAEF,coastal plain,marine terraces,alfisols,woden,67,2.34,95.63,0,223.77
+272,SFAEF,coastal plain,marine terraces,alfisols,woden,67,69.37,95.63,0,6633.79
+249,PEF,coastal plain,marine terraces,alfisols,wrightsville,Wr,2.62,90.51,8.75,237.15
+256,SEF,coastal plain,marine terraces,ultisols,craven,Cv,254.08,901.96,112.5,229168.84
+257,SEF,coastal plain,marine terraces,ultisols,duplin,Du,145.87,966.74,0,141018.56
+208,HaEF,coastal plain,marine terraces,ultisols,harleston,Hl,30.44,306.86,0,9340.96
+248,PEF,coastal plain,marine terraces,alfisols,kolin,KnB,119.71,103.34,12.29,12370.44
+210,HaEF,coastal plain,marine terraces,ultisols,latonia,Lt,4.16,127.39,12.83,529.96
+259,SEF,coastal plain,marine terraces,ultisols,lenoir,Le,175.32,0,300.99,0
+274,SFAEF,coastal plain,marine terraces,alfisols,mollville,39,20.84,479.09,54.62,9984.3
+275,SFAEF,coastal plain,marine terraces,alfisols,mollville,40,34.39,479.09,54.62,16476.01
+283,SFAEF,coastal plain,marine terraces,alfisols,mollville,39,20.84,479.09,54.62,9984.3
+284,SFAEF,coastal plain,marine terraces,alfisols,mollville,40,34.39,479.09,54.62,16476.01
+262,SEF,coastal plain,marine terraces,ultisols,norfolk,NoA,6.5,170.01,18.16,1105.07
+132,DEF,coastal plain,natural levees,alfisols,forestdale,Fb,1.2,99.05,9.87,118.86
+318,TEF,coastal plain,natural levees,inceptisols,jena,11,12.23,0,0,0
+5,ACEF,coastal plain,slopes,ultisols,leadvale,34,204.5,348.65,0,71298.97
+71,CEF,coastal plain,slopes,ultisols,madison,Md,3.61,700.92,159.03,2530.33
+72,CEF,coastal plain,slopes,ultisols,madison,Md,341.7,700.92,159.03,239505.26
+73,CEF,coastal plain,slopes,ultisols,madison,MhF,347.02,700.92,159.03,243234.17
+307,SSEF,piedmont,slopes,ultisols,madison,Md,629.67,350.46,79.52,220674.97
+66,CEF,coastal plain,slopes,ultisols,madison,Md,3.61,700.92,159.03,2530.33
+67,CEF,coastal plain,slopes,ultisols,madison,Md,341.7,700.92,159.03,239505.26
+68,CEF,coastal plain,slopes,ultisols,madison,MhF,347.02,700.92,159.03,243234.17
+304,SSEF,piedmont,slopes,ultisols,madison,Md,629.67,350.46,79.52,220674.97
+78,CEF,coastal plain,slopes,ultisols,madison,Md,3.61,700.92,159.03,2530.33
+79,CEF,coastal plain,slopes,ultisols,madison,Md,341.7,700.92,159.03,239505.26
+80,CEF,coastal plain,slopes,ultisols,madison,MhF,347.02,700.92,159.03,243234.17
+310,SSEF,piedmont,slopes,ultisols,madison,Md,629.67,350.46,79.52,220674.97
+179,HEF,piedmont,slopes,ultisols,pacolet,Sen,2.69,460.84,27.53,1239.66
+180,HEF,piedmont,slopes,ultisols,pacolet,PfE,132.65,460.84,27.53,61130.5
+301,SSEF,piedmont,slopes,ultisols,pacolet,Pc,350.18,1305.71,78,457235.25
+302,SSEF,piedmont,slopes,ultisols,pacolet,PfD2,79.97,1305.71,78,104418.02
+174,HEF,piedmont,slopes,inceptisols,pacolet,Sen,2.69,921.68,55.06,2479.32
+176,HEF,piedmont,slopes,ultisols,pacolet,PfE,132.65,921.68,55.06,122261
+295,SSEF,piedmont,slopes,ultisols,pacolet,Pc,350.18,2611.43,156,914470.5
+296,SSEF,piedmont,slopes,ultisols,pacolet,PfD2,79.97,2611.43,156,208836.04
+1,ACEF,coastal plain,slopes,ultisols,carnasaw,21,34.16,975.16,0,33311.61
+0,ACEF,coastal plain,slopes ,ultisols,carnasaw,12,1492.03,975.16,0,1454974.43
+173,HEF,piedmont,"slopes, ridges",ultisols,davidson,Dg,771.73,1197.45,135.45,924109.63
+299,SSEF,piedmont,"slopes, ridges",ultisols,helena,HnC,14.33,80.72,13.13,1156.78
+300,SSEF,piedmont,"slopes, ridges",ultisols,lloyd,Ld,33.71,0,10.63,0
+65,CEF,coastal plain,"slopes, ridges",ultisols,louisburg,LoF,60,0,0,0
+146,EEF,coastal plain,"slopes, ridges",ultisols,saffell,Sa,52.9,181.05,11.92,9577.74
+177,HEF,piedmont,"slopes, ridges",ultisols,vance,Va,423.84,0,104.26,0
+74,CEF,coastal plain,"slopes, ridges",alfisols,wilkes,WkD,264.94,229.04,0,60680.93
+75,CEF,coastal plain,"slopes, ridges",alfisols,wilkes,WkD,1058.17,229.04,0,242359.55
+182,HEF,piedmont,"slopes, ridges",alfisols,wilkes,Wi,209.02,65.44,0,13678.06
+58,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,69.1,316.79,46.48,21890.39
+59,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,168.66,316.79,46.48,53430.3
+178,HEF,piedmont,"slopes, ridges",ultisols,cecil,Cy,156.57,422.39,61.97,66133.7
+297,SSEF,piedmont,"slopes, ridges",ultisols,cecil,Ce,272.67,1055.98,154.93,287933.11
+298,SSEF,piedmont,"slopes, ridges",ultisols,cecil,HcB,5.33,1055.98,154.93,5628.35
+69,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,69.1,158.4,23.24,10945.2
+70,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,168.66,158.4,23.24,26715.15
+181,HEF,piedmont,"slopes, ridges",ultisols,cecil,Cy,156.57,211.2,30.99,33066.85
+305,SSEF,piedmont,"slopes, ridges",ultisols,cecil,Ce,272.67,527.99,77.46,143966.56
+306,SSEF,piedmont,"slopes, ridges",ultisols,cecil,HcB,5.33,527.99,77.46,2814.18
+76,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,69.1,158.4,23.24,10945.2
+77,CEF,coastal plain,"slopes, ridges",ultisols,cecil,Cl,168.66,158.4,23.24,26715.15
+183,HEF,piedmont,"slopes, ridges",ultisols,cecil,Cy,156.57,211.2,30.99,33066.85
+308,SSEF,piedmont,"slopes, ridges",ultisols,cecil,Ce,272.67,527.99,77.46,143966.56
+309,SSEF,piedmont,"slopes, ridges",ultisols,cecil,HcB,5.33,527.99,77.46,2814.18
+175,HEF,piedmont,"slopes, ridges",ultisols,gwinnett,GgF2,3.91,0,0,0
+34,BCEF,blue ridge,"slopes, ridges",ultisols,clifton,Ck,111.07,244.9,23.84,27201.02
+151,EEF,coastal plain,"slopes, ridges",ultisols,lucy,Lu,44.58,137.23,11.5,6117.8
+240,PEF,coastal plain,"slopes, ridges",ultisols,lucy,LuC,15.2,45.74,3.83,695.31
+199,HaEF,coastal plain,"slopes, ridges",ultisols,smithdale,SsE,56.6,290.3,61.96,16431.08
+241,PEF,coastal plain,"slopes, ridges",ultisols,smithdale,Sm,202.54,165.89,35.4,33598.7
+323,TEF,coastal plain,"slopes, ridges",alfisols,smithdale,38,506.85,622.08,132.77,315298.82
+324,TEF,coastal plain,"slopes, ridges",ultisols,smithdale,70,920.35,622.08,132.77,572526.92
+200,HaEF,coastal plain,"slopes, ridges",ultisols,smithdale,SsE,56.6,290.3,61.96,16431.08
+243,PEF,coastal plain,"slopes, ridges",ultisols,smithdale,Sm,202.54,165.89,35.4,33598.7
+325,TEF,coastal plain,"slopes, ridges",alfisols,smithdale,38,506.85,622.08,132.77,315298.82
+326,TEF,coastal plain,"slopes, ridges",ultisols,smithdale,70,920.35,622.08,132.77,572526.92
+158,EEF,coastal plain,"slopes, ridges",ultisols,troup,47,1.55,243.58,29.07,377.55
+159,EEF,coastal plain,"slopes, ridges",ultisols,troup,Tr,462.94,243.58,29.07,112763.7
+163,EEF,coastal plain,"slopes, ridges",ultisols,troup,47,1.55,243.58,29.07,377.55
+164,EEF,coastal plain,"slopes, ridges",ultisols,troup,Tr,462.94,243.58,29.07,112763.7
+152,EEF,coastal plain,"slopes, ridges",ultisols,troup,47,1.55,243.58,29.07,377.55
+153,EEF,coastal plain,"slopes, ridges",ultisols,troup,Tr,462.94,243.58,29.07,112763.7
+4,ACEF,coastal plain,"slopes, ridges",ultisols,clebit,24,7.36,169.2,0,1245.28
+23,BCEF,blue ridge,"slopes, ridges",ultisols,clifton,Ck,111.07,244.9,23.84,27201.02
+24,BCEF,blue ridge,"slopes, ridges",ultisols,clifton,Ck,111.07,244.9,23.84,27201.02
+48,BVEF,blue ridge,"slopes, ridges",ultisols,fannin,Fa,251.3,714.62,36.56,179583.17
+101,CHL,blue ridge,"slopes, ridges",ultisols,fannin,Fa,132.92,357.31,18.28,47493.42
+30,BCEF,blue ridge,"slopes, ridges",inceptisols,ashe,793,0.74,225.32,0,166.74
+31,BCEF,blue ridge,"slopes, ridges",inceptisols,ashe,Ac,213.25,225.32,0,48050.42
+32,BCEF,blue ridge,"slopes, ridges",inceptisols,ashe,793,0.74,225.32,0,166.74
+33,BCEF,blue ridge,"slopes, ridges",inceptisols,ashe,Ac,213.25,225.32,0,48050.42
+239,PEF,coastal plain,"slopes, ridges",ultisols,beauregard,BeB,1149.59,0,0,0
+98,CHL,blue ridge,"slopes, ridges",inceptisols,burton,Bu,8.51,274.92,19.81,2339.55
+2,ACEF,coastal plain,"slopes, ridges",ultisols,carnasaw,12,1492.03,487.58,0,727487.22
+3,ACEF,coastal plain,"slopes, ridges",ultisols,carnasaw,21,34.16,487.58,0,16655.81
+46,BVEF,blue ridge,"slopes, ridges",inceptisols,cashiers,CaE,47.11,465.02,28.51,21907.19
+99,CHL,blue ridge,"slopes, ridges",inceptisols,cashiers,CaF,29.66,465.02,28.51,13792.56
+47,BVEF,blue ridge,"slopes, ridges",inceptisols,chandler,Cd,97.7,462.28,26.67,45164.29
+100,CHL,blue ridge,"slopes, ridges",inceptisols,chandler,Cd,197.58,231.14,13.34,45668.17
+25,BCEF,blue ridge,"slopes, ridges",inceptisols,cleveland,RkF,2.11,0,0,0
+102,CHL,blue ridge,"slopes, ridges",inceptisols,cleveland,Cp,41.48,0,0,0
+103,CHL,blue ridge,"slopes, ridges",inceptisols,cleveland,RkF,193.44,0,0,0
+27,BCEF,blue ridge,"slopes, ridges",inceptisols,edneyville,Ed,563.72,244.87,10.51,138037.61
+50,BVEF,blue ridge,"slopes, ridges",inceptisols,edneyville,EPF,0.07,163.25,7.01,11.43
+51,BVEF,blue ridge,"slopes, ridges",inceptisols,edneyville,EdE,0.12,163.25,7.01,19.59
+104,CHL,blue ridge,"slopes, ridges",inceptisols,edneyville,Ed,218.1,244.87,10.51,53405.95
+21,BCEF,blue ridge,"slopes, ridges",inceptisols,edneyville,Ed,563.72,244.87,10.51,138037.61
+44,BVEF,blue ridge,"slopes, ridges",inceptisols,edneyville,EPF,0.07,163.25,7.01,11.43
+45,BVEF,blue ridge,"slopes, ridges",inceptisols,edneyville,EdE,0.12,163.25,7.01,19.59
+95,CHL,blue ridge,"slopes, ridges",inceptisols,edneyville,Ed,218.1,244.87,10.51,53405.95
+29,BCEF,blue ridge,"slopes, ridges",ultisols,evard,Ev,808.67,430.16,39.45,347860.84
+53,BVEF,blue ridge,"slopes, ridges",ultisols,evard,EVF,0.06,122.9,11.27,7.37
+105,CHL,blue ridge,"slopes, ridges",ultisols,evard,Ev,557.25,122.9,11.27,68488.28
+14,BCEF,blue ridge,"slopes, ridges",ultisols,evard,Ev,808.67,430.16,39.45,347860.84
+39,BVEF,blue ridge,"slopes, ridges",ultisols,evard,EVF,0.06,122.9,11.27,7.37
+86,CHL,blue ridge,"slopes, ridges",ultisols,evard,Ev,557.25,122.9,11.27,68488.28
+15,BCEF,blue ridge,"slopes, ridges",ultisols,evard,Ev,808.67,430.16,39.45,347860.84
+40,BVEF,blue ridge,"slopes, ridges",ultisols,evard,EVF,0.06,122.9,11.27,7.37
+87,CHL,blue ridge,"slopes, ridges",ultisols,evard,Ev,557.25,122.9,11.27,68488.28
+97,CHL,blue ridge,"slopes, ridges",inceptisols,plott,Pw,333.82,565.13,38.25,188651.08
+26,BCEF,blue ridge,"slopes, ridges",inceptisols,porters,Pw,177.78,0,0,0
+49,BVEF,blue ridge,"slopes, ridges",inceptisols,porters,PCG,0.03,0,0,0
+20,BCEF,blue ridge,"slopes, ridges",inceptisols,unaka,UkF,59.8,186.32,0,11142.1
+94,CHL,blue ridge,"slopes, ridges",inceptisols,wayah,We,1.85,0,0,0
